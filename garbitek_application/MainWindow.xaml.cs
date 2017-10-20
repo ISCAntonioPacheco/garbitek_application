@@ -24,9 +24,6 @@ namespace garbitek_application
         {
             InitializeComponent();
 
-            System.Console.WriteLine("Hello Word");
-            
-
         }
     }
 }
